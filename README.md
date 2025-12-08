@@ -11,7 +11,6 @@ https://docs.flutter.dev/get-started/install
 
 Then run the following commands:
 
-```sh
 flutter pub get
 flutter run
 
